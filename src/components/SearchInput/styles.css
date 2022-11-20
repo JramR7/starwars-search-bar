@@ -1,0 +1,19 @@
+.SearchInput {
+  width: 40vw;
+  height: 7vh;
+  background-color: #36373c;
+  border-width: 1px;
+  border-radius: 8px;
+  border-style: solid;
+  padding-left: 5vw;
+  font-size: large;
+  color: #888a8b;
+}
+
+.SearchInput::placeholder {
+  font-size: large;
+}
+
+.SearchInput:focus {
+  outline: 0;
+}

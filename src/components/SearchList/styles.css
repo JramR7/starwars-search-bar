@@ -1,0 +1,19 @@
+.Container {
+  width: 45vw;
+  background-color: #36373c;
+  border-width: 1px;
+  border-radius: 8px;
+  border-style: solid;
+  color: #888a8b;
+  margin-top: 2px;
+}
+
+.NameItem {
+  font-size: large;
+  padding: 8px 5vw;
+}
+
+.NameItem:hover {
+  background-color: #46474a;
+  border-radius: 8px;
+}

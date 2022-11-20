@@ -1,0 +1,12 @@
+.FormContainer {
+  width: 40vw;
+}
+
+.Title {
+  color: white;
+  font-size: large;
+}
+
+.RowContainer {
+  flex-direction: "row";
+}
