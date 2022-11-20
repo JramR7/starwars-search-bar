@@ -30,7 +30,7 @@ If you want to point or use another API, you can do it by changing the API_URL v
 To run this project, install it locally using npm:
 
 ```
-$ cd deel-name-finder
+$ cd your-project-folder
 $ yarn install or npm install
 $ yarn start or npm start
 ```
