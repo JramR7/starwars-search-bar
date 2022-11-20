@@ -24,7 +24,7 @@ For more insights on the libraries and versioning used for this project, please 
 
 ## Setup
 
-**Before running this project, please create a .env file in the root folder, just as the .env.test file.**
+**Before running this project, please create a .env file in the root folder, just as the .env.test file, use the same variables too.**
 If you want to point or use another API, you can do it by changing the API_URL variable in your .env file (you'd have to match or modify the types and response of the swapi API).
 
 To run this project, install it locally using npm:
